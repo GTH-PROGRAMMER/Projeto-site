@@ -1,0 +1,19 @@
+* {
+    font-family: normal 25pt Arial;
+}
+
+body {
+
+    background-color: greenyellow;
+
+}
+Main {
+    background-color: red;
+    width: 500px;
+
+    margin: auto;
+
+    box-shadow: 3px 3px 5px black;
+    
+    padding: 10px;
+
